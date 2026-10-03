@@ -65,7 +65,7 @@
         "eslint-plugin-unused-imports": "^4.1.4",
         "highlight.js": "11.11.1",
         "html-minifier-terser": "^7.2.0",
-        "moment": "^2.22.2",
+        "moment": "^2.31.0",
         "puppeteer-core": "^24.4.0",
         "standalone-electron-types": "^34.2.0",
         "stylelint": "^16.17.0",
